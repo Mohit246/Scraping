@@ -1,1 +1,0 @@
-Scraping Mobile phones information from Flipkart
