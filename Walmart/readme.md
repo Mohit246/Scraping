@@ -1,1 +1,1 @@
-## The objective of this project is to scrape the reviews data from walmart only uptil year- 2020
+## The objective of this project is to scrape the reviews data from walmart which were posted in year 2021.
